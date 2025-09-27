@@ -1,4 +1,6 @@
-# 🎨 Advanced Favicon Generator Pro
+# 🔨 FaviconForge
+
+**Forge Your Perfect Favicon**
 
 A comprehensive, professional-grade favicon generator that creates all the favicon sizes you need for modern web applications.
 
@@ -48,11 +50,11 @@ A comprehensive, professional-grade favicon generator that creates all the favic
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/advanced-favicon-generator.git
-   cd advanced-favicon-generator
+   git clone https://github.com/DAKSHSHARMA2901/FaviconForge-.git
+   cd FaviconForge-
    ```
 
-2. **Open the application:**
+2. **Open FaviconForge:**
    - Simply open `favicon-generator.html` in your web browser
    - No build process or dependencies required!
 
